@@ -35,8 +35,8 @@ The degradation model is `b = Hx + n`, where `H` is circular convolution with a 
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
-cd <repository-name>
+git clone https://github.com/lonely496-dev/image_deblurring.git
+cd image_deblurring
 ```
 
 ```matlab
